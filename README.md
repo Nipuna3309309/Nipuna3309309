@@ -11,7 +11,7 @@ r<h1 align="center">Hi 👋, I'm Nipuna</h1>
 
 - 📫 How to reach me **it22154576@my.sliit.lk**
 
-- ⚡ Fun fact **call me SATHA**
+- ⚡ Fun fact **call me Scorpion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
