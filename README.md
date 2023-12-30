@@ -3,7 +3,7 @@ r<h1 align="center">Hi 👋, I'm Nipuna</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nipuna&label=Profile%20views&color=0e75b6&style=flat" alt="nipuna" /> </p>
 
-[![Nipuna's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[[Nipuna's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Nipuna3309309&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
