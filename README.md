@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nipuna</h1>
+r<h1 align="center">Hi 👋, I'm Nipuna</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nipuna&label=Profile%20views&color=0e75b6&style=flat" alt="nipuna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nipuna&label=Profile%20views&color=0e75b6&style=flat" alt="nipuna" /> </p>
 
 - 🔭 I’m currently working on **mern**
 
